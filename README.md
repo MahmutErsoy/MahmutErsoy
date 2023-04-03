@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MahmutErsoy
 - 👀 I’m interested in Software
-- 🌱 I’m currently learning C,C#,Flutter
+- 🌱 I’m currently learning C#,Flutter
 - 💞️ I’m looking to collaborate  on Development
 - 📫 How to reach me mahmutersooy@gmail.com 
 
